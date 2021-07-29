@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbMigrator", "DbMigrator\DbMigrator.csproj", "{2DF4DD98-1BCB-484F-B752-BA7445D027EC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framework", "..\..\..\external\xc-e-000-depositoryworks\projects\nuget_packages\microservice-framework\Framework.csproj", "{63B8D7E6-2C1A-49D0-B73B-D4974328EA0D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{2DF4DD98-1BCB-484F-B752-BA7445D027EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DF4DD98-1BCB-484F-B752-BA7445D027EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DF4DD98-1BCB-484F-B752-BA7445D027EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{63B8D7E6-2C1A-49D0-B73B-D4974328EA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{63B8D7E6-2C1A-49D0-B73B-D4974328EA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{63B8D7E6-2C1A-49D0-B73B-D4974328EA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{63B8D7E6-2C1A-49D0-B73B-D4974328EA0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
